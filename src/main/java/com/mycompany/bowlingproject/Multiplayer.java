@@ -16,7 +16,7 @@ public class Multiplayer implements MultiPlayerGame {
 
     @Override
     public String startNewGame(String[] playerName) throws Exception {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("Fuck you Bitch."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
